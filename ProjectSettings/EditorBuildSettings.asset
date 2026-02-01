@@ -17,6 +17,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/New Scene.unity
     guid: e9ed36d78aa6c15438ad1560a8e79507
+  - enabled: 1
+    path: Assets/Scenes/Level2_Labyrinth.unity
+    guid: 40447237e3d74426f9240df2a8ea85c3
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
